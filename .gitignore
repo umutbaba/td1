@@ -1,0 +1,6 @@
+#fichier classe
+*.classe
+#autre
+*.jar
+*.war
+*.ear
